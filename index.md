@@ -35,7 +35,7 @@ Data structure and Algorithm; Artificial Intelligence; Operating System; Softwar
 ### __Shandong Jianzhu University__  `2017.6 - 2017.8`
 _Front-end Developer Intern_<br>
  • Developed a new Administration System Interface for the University with Vue.js. Worked on the employee attendance management feature.  
- • Implemented a Prefabricated Building System using Vue.js and collaborated with other developers to build a fully functional managment website for the construction companies by Node.js. <br>
+ • Implemented a Prefabricated Building System using Vue.js and collaborated with other developers to build a fully functional management website for the construction companies by Node.js. <br>
  • The source code could be found on [https://github.com/JasonJiangCN/absmis](https://github.com/JasonJiangCN/absmis)
 <!-- ### __Shandong University, Intelligent Algorithm Lab__ `2018.9 - Presence`
 _Research Assistant_<br>
